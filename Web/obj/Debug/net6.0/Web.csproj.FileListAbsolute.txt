@@ -1,0 +1,121 @@
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Web.staticwebassets.runtime.json
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Web.exe
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Web.deps.json
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Web.runtimeconfig.json
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Web.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Web.pdb
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Microsoft.Owin.Security.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Polly.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Polly.Extensions.Http.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Serilog.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.csproj.AssemblyReference.cache
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.AssemblyInfoInputs.cache
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.AssemblyInfo.cs
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.RazorAssemblyInfo.cache
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.RazorAssemblyInfo.cs
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\scopedcss\bundle\Web.styles.css
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.csproj.CopyComplete
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\refint\Web.dll
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.pdb
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\Web.genruntimeconfig.cache
+C:\Users\desta\Downloads\IdentityModel.AspNetCore-main\samples\Web\obj\Debug\net6.0\ref\Web.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Web.staticwebassets.runtime.json
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Web.exe
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Web.deps.json
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Web.runtimeconfig.json
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Web.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Web.pdb
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.Owin.Security.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Polly.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Polly.Extensions.Http.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Serilog.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.csproj.AssemblyReference.cache
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.AssemblyInfoInputs.cache
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.AssemblyInfo.cs
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.RazorAssemblyInfo.cache
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.RazorAssemblyInfo.cs
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\scopedcss\bundle\Web.styles.css
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.csproj.CopyComplete
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\refint\Web.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.pdb
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\Web.genruntimeconfig.cache
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\obj\Debug\net6.0\ref\Web.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\appsettings.json
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Microsoft.Owin.dll
+C:\Users\desta\OneDrive\Documentos\AND\2022\Librerias\NET 6\Web\bin\Debug\net6.0\Owin.dll
